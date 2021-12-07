@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Nikita joshi/AndroidStudioProjects/LearnHub/app/src/main/res/drawable/custombutton.xml" value="0.1" />
+        <entry key="..\:/Users/Nikita joshi/AndroidStudioProjects/LearnHub/app/src/main/res/drawable/customedittext.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Nikita joshi/AndroidStudioProjects/LearnHub/app/src/main/res/layout/activity_loginactivity.xml" value="0.1" />
         <entry key="..\:/Users/aayus/AndroidStudioProjects/LearnHub/app/src/main/res/layout/activity_main.xml" value="0.16197916666666667" />
       </map>
     </option>
